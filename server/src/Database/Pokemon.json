@@ -1,0 +1,122 @@
+[
+    {
+        "Numero": "133",
+        "Nombre": "Eevee",
+        "Tipo": "Normal",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png",
+        "Ataque": "50"
+        
+    },
+    {
+        "Numero": "143",
+        "Nombre": "Snorlax",
+        "Tipo": "Normal",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png",
+        "Ataque": "100"
+        
+    },
+    {
+        "Numero": "052",
+        "Nombre": "Meowth",
+        "Tipo": "Normal",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png",
+        "Ataque": "50"
+        
+    },
+    {
+        "Numero": "446",
+        "Nombre": "Munchlax",
+        "Tipo": "Normal",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/446.png",
+        "Ataque": "70"
+        
+    },
+    {
+        "Numero": "424",
+        "Nombre": "Ambipom",
+        "Tipo": "Normal",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/424.png",
+        "Ataque": "80"
+        
+    },
+    {
+        "Numero": "104",
+        "Nombre": "Cubone",
+        "Tipo": "Tierra",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/104.png",
+        "Ataque": "60"
+        
+    },
+    {
+        "Numero": "450",
+        "Nombre": "Hippodown",
+        "Tipo": "Tierra",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/450.png",
+        "Ataque": "90"
+        
+    },
+    {
+        "Numero": "328",
+        "Nombre": "Trapinch",
+        "Tipo": "Tierra",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/328.png",
+        "Ataque": "50"
+        
+    },
+    {
+        "Numero": "473",
+        "Nombre": "Mamoswine",
+        "Tipo": "Tierra",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/473.png",
+        "Ataque": "140"
+        
+    },
+    {
+        "Numero": "231",
+        "Nombre": "Phanpy",
+        "Tipo": "Tierra",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/231.png",
+        "Ataque": "40"
+        
+    },
+    {
+        "Numero": "004",
+        "Nombre": "Charmander",
+        "Tipo": "Fuego",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
+        "Ataque": "70"
+        
+    },
+    {
+        "Numero": "058",
+        "Nombre": "Growlithe",
+        "Tipo": "Fuego",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/058.png",
+        "Ataque": "70"
+
+    },
+    {
+        "Numero": "391",
+        "Nombre": "Monferno",
+        "Tipo": "Fuego",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/391.png",
+        "Ataque": "70"
+        
+    },
+    {
+        "Numero": "078",
+        "Nombre": "Rapidash",
+        "Tipo": "Fuego",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png",
+        "Ataque": "70"
+        
+    },
+    {
+        "Numero": "228",
+        "Nombre": "Houndour",
+        "Tipo": "Fuego",
+        "Imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/228.png",
+        "Ataque": "70"
+        
+    }
+]

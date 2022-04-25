@@ -1,0 +1,86 @@
+.layout {
+  width: 1366px;
+  height: 768px;
+
+  display: grid;
+  grid: "Body sidebar" 1fr / auto 240px;
+  gap: 8px;
+}
+
+.card {
+  width: 15rem;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.Body {
+  grid-area: Body;
+  display: flex;
+  width: 65%;
+}
+
+.sidebar {
+  grid-area: sidebar;
+}
+
+nav {
+  background-color: black;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.Navbar-image {
+  width: 35%;
+}
+
+.searchbar-container {
+  display: flex;
+  margin: 0px auto;
+  padding: 0 20px;
+  align-items: center;
+}
+
+.searchbard {
+  background-color: white;
+}
+
+.searchbard input {
+  padding: 10px;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+  border: none;
+}
+
+.searchbard input:focus {
+  outline: none;
+}
+
+.searchbar-btn button {
+  background-color: #363636;
+  border: none;
+  border-radius: 10px;
+  height: 100%;
+  color: white;
+  height: 35px;
+}
+
+.Closelog {
+  text-align: left;
+  padding: 10px;
+}
+
+.body {
+  height: auto;
+  border-radius: 20px;
+}
+
+.Filtro {
+  padding: 30px;
+}
